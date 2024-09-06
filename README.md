@@ -1,17 +1,6 @@
 # ATM Management System
 
 This project is an ATM Management System designed to simulate the functionalities of a real-world ATM. The system includes features such as user login, balance inquiry, cash withdrawal, cash deposit, password change, and admin management. The application is developed using a user-friendly interface for easy navigation and use.
-![Cash-With-Draw-Page](https://github.com/user-attachments/assets/70413258-7ebb-4b1e-bcda-2fe19c26d37e)
-![Balance-Inquiry-Page](https://github.com/user-attachments/
-
-assets/2798ec50-28c4-41c2-b2df-cd32268437d0)
-
-
-![Uner-Login-Page](https://github.com/user-attachments/assets/32edce8f-55c6-49c2-b140-a618a9438b98)
-
-
-
-
 
 ## Features
 
