@@ -1,0 +1,69 @@
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form1.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Properties.Resources.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.csproj.GenerateResource.cache
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.AssemblyInfoInputs.cache
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.AssemblyInfo.cs
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.csproj.CoreCompileInputs.cache
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.exe
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.deps.json
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.runtimeconfig.json
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ATM Management System.pdb
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.dll
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\refint\ATM Management System.dll
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.pdb
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.genruntimeconfig.cache
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ref\ATM Management System.dll
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form2.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form3.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form4.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form5.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form6.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form7.resources
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM_Management_System.Form8.resources
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\visual studio project2\ATM Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Management System.csproj.AssemblyReference.cache
+D:\visual studio project2\ATM Management System\obj\Debug\net8.0-windows\ATM Mana.DE7114D4.Up2Date

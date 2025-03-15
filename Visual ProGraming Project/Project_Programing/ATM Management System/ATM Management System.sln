@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM Management System", "ATM Management System.csproj", "{B5BEA732-87A3-4EED-B4D7-801FADC18BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BEA732-87A3-4EED-B4D7-801FADC18BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BEA732-87A3-4EED-B4D7-801FADC18BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BEA732-87A3-4EED-B4D7-801FADC18BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BEA732-87A3-4EED-B4D7-801FADC18BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB0D638-A7FD-417E-B720-407B45FB50CA}
+	EndGlobalSection
+EndGlobal
